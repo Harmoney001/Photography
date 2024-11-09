@@ -8,6 +8,7 @@
 
 body{
     background-color:rgb(255, 251, 246);
+    overflow:hidden;
 }
 
 /* google fonts */
@@ -324,7 +325,7 @@ header{
     }
 
     .album-title{
-      font-size: 20px;
+      font-size: 25px;
     }
     .cont1{
       display: inline-block;
