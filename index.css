@@ -137,7 +137,7 @@ header{
 
 .landing::before{
     content: "";
-  background-image: url('photo.avif');
+  background-image: url('photo.jpg');
   background-size: cover;
   filter: blur(1px);
   position: absolute;
