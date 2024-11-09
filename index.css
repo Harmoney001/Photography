@@ -132,18 +132,10 @@ header{
 .landing{
     height: 90vh;
     position: relative;
+    background-image: url('photo.jpg');
+    background-size: cover;
+    width: 100%;
  
-}
-
-.landing::before{
-    content: "";
-  background-image: url('photo.jpg');
-  background-size: cover;
-  filter: blur(1px);
-  position: absolute;
-  height: 90vh;
-  width: 100%;
-  z-index: -1;
 }
 
 .slide {
